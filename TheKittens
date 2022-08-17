@@ -11,7 +11,10 @@
             h1{color: rgb(201, 58, 201);
             }
             #cat1{color: rgb(147, 199, 52);
-            font-family: cursive, monospace;}
+            font-family: cursive, monospace;
+            
+            
+            }
         </style>
         
         
@@ -20,7 +23,7 @@
         
         <h1>The coolest creature</h1>
         
-        <p id="cat1">The <em>kodkod</em> is awesome because <strong>it is one of the rarest felines on <em>Earth!</em></strong>. The kodkod is a type of lynx that is brown with black spots. The kodkod is an endangered species onlie found in Southern and Central Chile.</p>
+        <p id="cat1">The <em>kodkod</em> is awesome because <strong>it is one of the rarest felines on <em>Earth!</em></strong>. The kodkod is a type of lynx that is brown with black spots. The kodkod is an endangered species onlie found in Southern and Central Chile. The kodkod can climb tall trees that have no footholds or handholds, and they have amazing sense of smell which they use to seek out prey. I wish I could have a kodkod for a pet! sa</p>
         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/cat.png" width="300" alt= "The coolest kitten!">
     </body>
 </html>
